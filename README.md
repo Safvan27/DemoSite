@@ -1,2 +1,2 @@
-# DemoSite
-a simple demo site in html
+# internship2020
+repository for internship demo projects
