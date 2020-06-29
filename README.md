@@ -1,2 +1,2 @@
-# internship2020
+# Demosite
 repository for internship demo projects
